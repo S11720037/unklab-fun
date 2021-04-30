@@ -1,6 +1,9 @@
+import { Navbar } from "./components";
 function App() {
   return (
     <div>
+      <Navbar />
+
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod magnam
         pariatur sunt eius temporibus maiores quasi ex aspernatur dolore
